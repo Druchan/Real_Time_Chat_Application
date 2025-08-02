@@ -8,10 +8,10 @@ Two users can chat with each other in real time using two separate Java programs
 
 ## 🖼️ Screenshots
 
-### 🧑‍💻 Client 1 (Dru.java)
+### 🧑‍💻 Client 1 (Dru.java) -> Server
 <img src="https://github.com/user-attachments/assets/66817144-05af-4ae8-8e96-15d6b51f58c7" width="500"/>
 
-### 👨‍💻 Client 2 (Ragul.java)
+### 👨‍💻 Client 2 (Ragul.java) -> Client
 <img src="https://github.com/user-attachments/assets/6010b983-3de1-487d-a3d7-60c19259fd1c" width="500"/>
 ---
 
