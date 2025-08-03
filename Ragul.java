@@ -1,4 +1,3 @@
-package Socket;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -81,3 +80,4 @@ public class Ragul extends Frame implements Runnable, ActionListener {
         }
     }
 }
+
